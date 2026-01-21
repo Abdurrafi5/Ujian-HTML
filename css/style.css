@@ -162,10 +162,6 @@ body {
     opacity: 0.8;
 }
 
-.card:hover .skill-title {
-    color: cyan;
-}
-
 .contact {
     padding: 80px 40px;
     text-align: center;
